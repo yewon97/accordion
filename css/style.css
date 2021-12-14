@@ -9,8 +9,10 @@ html, body {
 
 }
 .panel-faq-answer {
-  padding: 15px;
-  display: none;
+  /* padding: 15px;
+  display: none; */
+  height: 0;
+  overflow: hidden;
 }
 
 #btn-all-close {
