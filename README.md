@@ -44,3 +44,18 @@ transition: all 1.35s;
 ```javascript
 panelFaqAnswer[i].classList.toggle('active');
 ```
+
+<hr />
+
+# 아코디언 만들기2
+
+<img src="./readme/thumbnail2.gif" alt="썸네일">
+
+`<details>` 태그와 `<summary>` 태그를 이용한 아코디언 만들기
+
+accordion2.html 파일 참고하기
+
+참고 >
+
+- https://codingeverybody.kr/css-details-%ed%83%9c%ea%b7%b8-%ec%8a%a4%ed%83%80%ec%9d%bc-%ea%be%b8%eb%af%b8%ea%b8%b0/#marker-style
+- https://blogpack.tistory.com/1026
